@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da22816-28b3-49bd-bfb6-533281d0d95e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/en.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/orbit-6.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/orbit-6.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1904">
-              <caret line="112" column="20" selection-start-line="112" selection-start-column="20" selection-end-line="113" selection-end-column="35" />
+            <state>
+              <caret line="84" column="9" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -33,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/orbit-6.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5355">
-              <caret line="315" selection-start-line="315" selection-end-line="315" />
+            <state relative-caret-position="612">
+              <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -74,13 +74,13 @@
         <option value="$PROJECT_DIR$/assets/pages/en.html" />
         <option value="$PROJECT_DIR$/info" />
         <option value="$PROJECT_DIR$/assets/css/orbit-3.css" />
-        <option value="$PROJECT_DIR$/assets/css/orbit-6.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/en.html" />
+        <option value="$PROJECT_DIR$/assets/css/orbit-6.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="976" />
@@ -172,20 +172,6 @@
     <entry file="file://$PROJECT_DIR$/index-en.html" />
     <entry file="file://$PROJECT_DIR$/pages/en.html" />
     <entry file="file://$PROJECT_DIR$/assets/pages/en.html" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="112" column="20" selection-start-line="112" selection-start-column="20" selection-end-line="113" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/orbit-6.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5355">
-          <caret line="315" selection-start-line="315" selection-end-line="315" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/orbit-3.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5117">
@@ -204,6 +190,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="51" column="10" lean-forward="true" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/orbit-6.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="84" column="9" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
         </state>
       </provider>
     </entry>
